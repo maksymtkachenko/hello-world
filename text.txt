@@ -1,1 +1,3 @@
 Hello world !
+
+Line added to the file from Eclipse !
